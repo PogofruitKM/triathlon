@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nerd.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nerd_anim_down0000" x="3" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0001" x="3" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0002" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0003" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0004" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0005" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0006" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0007" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0008" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0009" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0010" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0011" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0012" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_down0013" x="413" y="3" width="407" height="541"/>
+	<SubTexture name="nerd_anim_idle0000" x="823" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0001" x="823" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0002" x="1234" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0003" x="1234" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0004" x="1645" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0005" x="1645" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0006" x="2056" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0007" x="2056" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0008" x="2467" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0009" x="2467" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0010" x="2878" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0011" x="2878" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0012" x="3289" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_idle0013" x="3289" y="3" width="408" height="541"/>
+	<SubTexture name="nerd_anim_left0000" x="3" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0001" x="3" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0002" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0003" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0004" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0005" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0006" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0007" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0008" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0009" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0010" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0011" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0012" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_left0013" x="414" y="547" width="408" height="540"/>
+	<SubTexture name="nerd_anim_right0000" x="825" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0001" x="825" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0002" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0003" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0004" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0005" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0006" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0007" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0008" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0009" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0010" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0011" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0012" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_right0013" x="1235" y="547" width="407" height="541"/>
+	<SubTexture name="nerd_anim_special0000" x="1645" y="547" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0001" x="1645" y="547" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0002" x="2055" y="547" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0003" x="2055" y="547" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0004" x="2465" y="547" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0005" x="2875" y="547" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0006" x="3285" y="547" width="441" height="541"/>
+	<SubTexture name="nerd_anim_special0007" x="3" y="1091" width="441" height="541"/>
+	<SubTexture name="nerd_anim_special0008" x="447" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0009" x="447" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0010" x="857" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0011" x="857" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0012" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0013" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0014" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0015" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0016" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0017" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0018" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0019" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0020" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0021" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0022" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0023" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0024" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0025" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0026" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_special0027" x="1267" y="1091" width="407" height="541" frameX="0" frameY="0" frameWidth="441" frameHeight="541"/>
+	<SubTexture name="nerd_anim_up0000" x="1677" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0001" x="1677" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0002" x="2088" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0003" x="2088" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0004" x="2088" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0005" x="2088" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0006" x="2088" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0007" x="2088" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0008" x="2088" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0009" x="2088" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0010" x="2088" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0011" x="2088" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0012" x="2088" y="1091" width="408" height="541"/>
+	<SubTexture name="nerd_anim_up0013" x="2088" y="1091" width="408" height="541"/>
+</TextureAtlas>

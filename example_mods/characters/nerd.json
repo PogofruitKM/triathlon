@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nerd_anim_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nerd_anim_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nerd_anim_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nerd_anim_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nerd_anim_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-2
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "nerd_anim_special",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nerd",
+	"position": [
+		-50,
+		200
+	],
+	"healthicon": "nerd",
+	"flip_x": false,
+	"healthbar_colors": [
+		226,
+		87,
+		3
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
